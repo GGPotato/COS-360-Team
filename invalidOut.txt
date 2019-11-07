@@ -1,0 +1,572 @@
+Expression #1 parse failed w message
+{{
+error in method S : unexpected token end of string"$"
+is token number 1
+No previous token.
+current line number is 1
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #2 parse failed w message
+{{
+error in method S : unexpected token union"U"
+is token number 1
+No previous token.
+current line number is 2
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #3 parse failed w message
+{{
+error in method S : unexpected token intersection"@"
+is token number 1
+No previous token.
+current line number is 3
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #4 parse failed w message
+{{
+error in method D : unexpected token end of string"$"
+is token number 2
+previous token was complement"-"
+current line number is 4
+position after the current token is 2
+Expected tokens are : identifier leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #5 parse failed w message
+{{
+error in method S : unexpected token setdifference"\"
+is token number 1
+No previous token.
+current line number is 5
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #6 parse failed w message
+{{
+error in method S : unexpected token symmetric difference"(+)"
+is token number 1
+No previous token.
+current line number is 6
+position after the current token is 3
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #7 parse failed w message
+{{
+error in method S : unexpected token rightparen")"
+is token number 1
+No previous token.
+current line number is 7
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #8 parse failed w message
+{{
+error in method S : unexpected token nonnegative integer constant("5")
+is token number 1
+No previous token.
+current line number is 8
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #9 parse failed w message
+{{
+error in method SETINTERIOR : unexpected token end of string"$"
+is token number 2
+previous token was leftbrace"{"
+current line number is 9
+position after the current token is 2
+Expected tokens are : nonnegative integer constant rightbrace"}" 
+}}
+Skipping to next EOS
+Expression #10 parse failed w message
+{{
+error in eval : variable x is not bound in the environment
+}}
+Skipping to next EOS
+Expression #11 parse failed w message
+{{
+error in method E : unexpected token end of string"$"
+is token number 2
+previous token was "let"
+current line number is 11
+position after the current token is 4
+Expected token is "in"
+}}
+Skipping to next EOS
+Expression #12 parse failed w message
+{{
+error in method S : unexpected token "endlet"
+is token number 1
+No previous token.
+current line number is 12
+position after the current token is 6
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #13 parse failed w message
+{{
+error in method TEST : unexpected token end of string"$"
+is token number 2
+previous token was "if"
+current line number is 13
+position after the current token is 3
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #14 parse failed w message
+{{
+error in method S : unexpected token "else"
+is token number 1
+No previous token.
+current line number is 14
+position after the current token is 4
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #15 parse failed w message
+{{
+error in method S : unexpected token "endif"
+is token number 1
+No previous token.
+current line number is 15
+position after the current token is 5
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #16 parse failed w message
+{{
+error in method D : unexpected token nonnegative integer constant("2")
+is token number 2
+previous token was complement"-"
+current line number is 16
+position after the current token is 2
+Expected tokens are : identifier leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #17 parse failed w message
+{{
+error in method SETINTERIOR : unexpected token end of string"$"
+is token number 2
+previous token was leftbrace"{"
+current line number is 17
+position after the current token is 2
+Expected tokens are : nonnegative integer constant rightbrace"}" 
+}}
+Skipping to next EOS
+Expression #18 parse failed w message
+{{
+error in method S : unexpected token rightbrace"}"
+is token number 1
+No previous token.
+current line number is 18
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #19 parse failed w message
+{{
+error in method E : unexpected token end of string"$"
+is token number 2
+previous token was leftparen"("
+current line number is 19
+position after the current token is 2
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #20 parse failed w message
+{{
+error in method S : unexpected token rightparen")"
+is token number 1
+No previous token.
+current line number is 20
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #21 parse failed w message
+{{
+error in method S : unexpected token semicolon";"
+is token number 1
+No previous token.
+current line number is 21
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #22 parse failed w message
+{{
+error in method S : unexpected token subset of"<="
+is token number 1
+No previous token.
+current line number is 22
+position after the current token is 2
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #23 parse failed w message
+{{
+error in method S : unexpected token comma","
+is token number 1
+No previous token.
+current line number is 23
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #24 parse failed w message
+{{
+error in method S : unexpected token equals"="
+is token number 1
+No previous token.
+current line number is 24
+position after the current token is 1
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #25 parse failed w message
+{{
+error in method D : unexpected token end of string"$"
+is token number 2
+previous token was complement"-"
+current line number is 25
+position after the current token is 2
+Expected tokens are : identifier leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #26 parse failed w message
+{{
+error in method S : unexpected token "in"
+is token number 1
+No previous token.
+current line number is 26
+position after the current token is 2
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #27 parse failed w message
+{{
+error in method CONST : unexpected token end of string"$"
+is token number 2
+previous token was "CMP"
+current line number is 27
+position after the current token is 4
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #28 parse failed w message
+{{
+error in method CONST : unexpected token union"U"
+is token number 2
+previous token was "CMP"
+current line number is 28
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #29 parse failed w message
+{{
+error in method CONST : unexpected token intersection"@"
+is token number 2
+previous token was "CMP"
+current line number is 29
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #30 parse failed w message
+{{
+error in method CONST : unexpected token complement"-"
+is token number 2
+previous token was "CMP"
+current line number is 30
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #31 parse failed w message
+{{
+error in method CONST : unexpected token setdifference"\"
+is token number 2
+previous token was "CMP"
+current line number is 31
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #32 parse failed w message
+{{
+error in method CONST : unexpected token symmetric difference"(+)"
+is token number 2
+previous token was "CMP"
+current line number is 32
+position after the current token is 7
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #33 parse failed w message
+{{
+error in method CONST : unexpected token rightparen")"
+is token number 2
+previous token was "CMP"
+current line number is 33
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #34 parse failed w message
+{{
+error in method CONST : unexpected token nonnegative integer constant("5")
+is token number 2
+previous token was "CMP"
+current line number is 34
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #35 parse failed w message
+{{
+error in method SETINTERIOR : unexpected token end of string"$"
+is token number 3
+previous token was leftbrace"{"
+current line number is 35
+position after the current token is 6
+Expected tokens are : nonnegative integer constant rightbrace"}" 
+}}
+Skipping to next EOS
+Expression #36 parse failed w message
+{{
+error in method CONST : unexpected token identifier("x")
+is token number 2
+previous token was "CMP"
+current line number is 36
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #37 parse failed w message
+{{
+error in method CONST : unexpected token "let"
+is token number 2
+previous token was "CMP"
+current line number is 37
+position after the current token is 7
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #38 parse failed w message
+{{
+error in method CONST : unexpected token "endlet"
+is token number 2
+previous token was "CMP"
+current line number is 38
+position after the current token is 10
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #39 parse failed w message
+{{
+error in method CONST : unexpected token "if"
+is token number 2
+previous token was "CMP"
+current line number is 39
+position after the current token is 6
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #40 parse failed w message
+{{
+error in method CONST : unexpected token "else"
+is token number 2
+previous token was "CMP"
+current line number is 40
+position after the current token is 8
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #41 parse failed w message
+{{
+error in method CONST : unexpected token "endif"
+is token number 2
+previous token was "CMP"
+current line number is 41
+position after the current token is 9
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #42 parse failed w message
+{{
+error in method CONST : unexpected token complement"-"
+is token number 2
+previous token was "CMP"
+current line number is 42
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #43 parse failed w message
+{{
+error in method SETINTERIOR : unexpected token intersection"@"
+is token number 3
+previous token was leftbrace"{"
+current line number is 43
+position after the current token is 7
+Expected tokens are : nonnegative integer constant rightbrace"}" 
+}}
+Skipping to next EOS
+Expression #44 parse failed w message
+{{
+error in method CONST : unexpected token rightbrace"}"
+is token number 2
+previous token was "CMP"
+current line number is 44
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #45 parse failed w message
+{{
+error in method CONST : unexpected token leftparen"("
+is token number 2
+previous token was "CMP"
+current line number is 45
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #46 parse failed w message
+{{
+error in method CONST : unexpected token rightparen")"
+is token number 2
+previous token was "CMP"
+current line number is 46
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #47 parse failed w message
+{{
+error in method CONST : unexpected token semicolon";"
+is token number 2
+previous token was "CMP"
+current line number is 47
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #48 parse failed w message
+{{
+error in method CONST : unexpected token subset of"<="
+is token number 2
+previous token was "CMP"
+current line number is 48
+position after the current token is 6
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #49 parse failed w message
+{{
+error in method CONST : unexpected token comma","
+is token number 2
+previous token was "CMP"
+current line number is 49
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #50 parse failed w message
+{{
+error in method CONST : unexpected token equals"="
+is token number 2
+previous token was "CMP"
+current line number is 50
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #51 parse failed w message
+{{
+error in method CONST : unexpected token complement"-"
+is token number 2
+previous token was "CMP"
+current line number is 51
+position after the current token is 5
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #52 parse failed w message
+{{
+error in method CONST : unexpected token "in"
+is token number 2
+previous token was "CMP"
+current line number is 52
+position after the current token is 6
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #53 parse failed w message
+{{
+error in method CONST : unexpected token end of string"$"
+is token number 2
+previous token was "CMP"
+current line number is 53
+position after the current token is 4
+Expected token is leftbrace"{"
+}}
+Skipping to next EOS
+Expression #54 parse failed w message
+{{
+error in method S : unexpected token unrecognized("#####")
+is token number 1
+No previous token.
+current line number is 54
+position after the current token is 5
+Expected tokens are : identifier "let" "if" leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #55 parse failed w message
+{{
+error in method D : unexpected token end of string"$"
+is token number 4
+previous token was intersection"@"
+current line number is 56
+position after the current token is 5
+Expected tokens are : identifier leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #56 parse failed w message
+{{
+error in method C : unexpected token end of string"$"
+is token number 4
+previous token was setdifference"\"
+current line number is 57
+position after the current token is 5
+Expected tokens are : identifier leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #57 parse failed w message
+{{
+error in method A : unexpected token end of string"$"
+is token number 4
+previous token was symmetric difference"(+)"
+current line number is 58
+position after the current token is 7
+Expected tokens are : identifier leftbrace"{" leftparen"(" complement"-" "CMP" 
+}}
+Skipping to next EOS
+Expression #58 parse failed w message
+{{
+error in S method : expression is not follows by $
+}}
+Skipping to next EOS
+End of file reached.
+58 expressions were consumed, 58 invalid and 0 valid.

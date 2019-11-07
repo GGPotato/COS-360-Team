@@ -1,0 +1,63 @@
+$
+U$
+@$
+-$
+\$
+(+)$
+)$
+5$
+{$
+x$
+let$
+endlet$
+if$
+else$
+endif$
+-2$
+{$
+}$
+($
+)$
+;$
+<=$
+,$
+=$
+-$
+in$
+CMP$
+CMP U$
+CMP @$
+CMP -$
+CMP \$
+CMP (+)$
+CMP )$
+CMP 5$
+CMP {$
+CMP x$
+CMP let$
+CMP endlet$
+CMP if$
+CMP else$
+CMP endif$
+CMP -2$
+CMP { @$
+CMP }$
+CMP ($
+CMP )$
+CMP ;$
+CMP <=$
+CMP ,$
+CMP =$
+CMP -$
+CMP in$
+CMP$
+##### !!!!$
+{} U$
+{} @$
+{} \$
+{} (+)$
+{} -$
+
+
+
+

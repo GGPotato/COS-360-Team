@@ -1,0 +1,56 @@
+a$
+b$
+c$
+d$
+{}$
+CMP{}$
+{1}$
+CMP{1}$
+{0,1,2,3,4}$
+CMP{0,1,2,3,4}$
+
+a U {1111}$
+b @ CMP{}$
+CMP{} \ g$
+a (+) a$
+-a$
+-b$
+-f$
+f U g$
+f @ g$
+f (+) g$
+f \ g$
+let
+  f = {1,2,3};
+  g = f \ {1};
+  h = g U - q;
+in
+ h \ - p
+endlet$
+if a <= -a then b else p endif$
+if -a <= a then a else -a endif$
+if a = b then a else b endif$
+if c = c then CMP{} else {} endif$
+let 
+   s = {1};
+   t = {1,2};
+   u = {2,3,4};
+in
+   u (+) (t @ s)
+endlet$
+let
+in 
+{1,2,3} U {2,3,4}
+endlet$
+if {} = {} then {1} else x endif$
+if {} = CMP{} then x else {2} endif$
+  let 
+      x = b U c;
+      y = let
+             z = x @ x;
+          in 
+             z \ (z \ z)
+          endlet;
+   in
+      y
+   endlet$
