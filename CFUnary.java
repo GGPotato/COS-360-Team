@@ -49,9 +49,25 @@ public class CFUnary extends CFExp{
    
    **********************************************************************/
    
-	public CofinFin eval(Map<String, CofinFin> env) throws Exception{
-      return null;
-      
+	public CofinFin eval(Map<String, CofinFin> env) throws Exception
+	{
+     
+	 if (env == null) 
+	 {
+	   throw new Exception("error in CFUnary constructor : subexpression is null");
+      }
+	  else if (there is a variable in the expression tree with no entry in env )
+	  {
+	  throw new Exception("error in eval : variable " +/*variable name*/+ " is not bound in the environment");
+	  }
+   
+     // Otherwise, return the value of the expression obtained by using the
+   //values given in env and the expression and the CofinFin complement
+  // method.
+
+
+
+
    }
 	
    /*
@@ -72,8 +88,18 @@ public class CFUnary extends CFExp{
    
    **********************************************************************/
  
-	public  CFExp substitute(Map<String, CFExp> bindings)throws Exception{
-      return null;
+	public  CFExp substitute(Map<String, CFExp> bindings)throws Exception
+	{
+     if (bindings == null)
+	 {
+	 	 throw new Exception("error in substitute : bindings is null")
+	 }else{
+	 substitute();
+	 //return a CFUnary object that is constructed from this
+     //one and the result of the recursive call on substitute for the
+     //subexpression subExp
+
+	 }
       
    }
    

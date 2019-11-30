@@ -90,6 +90,7 @@ public class CFBinary extends CFExp{
    
 	public CofinFin eval(Map<String, CofinFin> env) throws Exception{
                
+
          return null;
       }
    
